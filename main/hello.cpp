@@ -7,6 +7,6 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run this and now i have modified it with great difficulty \n";
   cout << "Why are labs so hard\n";
-  cout << "Change pt2";
+  cout << "Change pt3";
   return 0;
 }
