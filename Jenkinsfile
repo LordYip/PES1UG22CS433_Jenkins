@@ -15,7 +15,7 @@ pipeline {
             steps {
                 script {
                   
-                    sh './PES1UG22Cs433-1'  
+                    sh './PES1UG22CS433-1'  
                 }
             }
         }
